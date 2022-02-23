@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="number1_0">Number1(0)</string>
+    <string name="n1_n2">n1^n2</string>
+    <string name="number2_0">number2(0)</string>
+    <string name="mod">%(mod)</string>
+</resources>
